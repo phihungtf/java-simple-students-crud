@@ -64,13 +64,13 @@ The application has the following features:
   - A file chooser will be displayed.
   - Select the file you want to load from.
     - To load students from a binary file, select type `Binary File (*.bin)`.
-  - To load students from a CSV file, select type `CSV File (*.csv)`.
+    - To load students from a CSV file, select type `CSV File (*.csv)`.
 - Save students to a binary file (`.bin`), or a CSV file (`.csv`).
   - To save students to a file, click on the `Save` button.
   - If you have not loaded students from a file, a file chooser will be displayed.
   - Select the file you want to save to.
-  - To save students to a binary file, select type `Binary File (*.bin)`.
-  - To save students to a CSV file, select type `CSV File (*.csv)`.
+    - To save students to a binary file, select type `Binary File (*.bin)`.
+    - To save students to a CSV file, select type `CSV File (*.csv)`.
   - The students will be saved to the file you loaded from.
 - You can also load a binary file (`.bin`) and save to a CSV file (`.csv`), or vice versa.
   - Load a binary file (`.bin`) by clicking on the `Open` button.
