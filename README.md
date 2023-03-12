@@ -86,6 +86,6 @@ The application has the following features:
 
 - [Java Swing JFileChooser Tutorial](https://www.javatpoint.com/java-jfilechooser)
 
-## Authors
+## Author
 
 - [@phihungtf](https://www.github.com/phihungtf)
